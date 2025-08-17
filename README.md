@@ -52,3 +52,11 @@ python scan.py
 <p align="center">
 <img src="Img/muestra3.png">
 </p>
+
+⚠️ **Aviso**
+
+Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**.
+
+No me responsabilizo del mal uso que se pueda dar ni de los daños que puedan ocasionarse por su ejecución.
+
+El uso indebido de este material puede ser **ilegal**.
