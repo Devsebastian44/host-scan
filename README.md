@@ -1,62 +1,79 @@
-# Host Scan
+## Host Scan
 
 <p align="center">
-<img src="Logotipo.png">
+  <img src="./Img/Logo.png" height="300px" width="350px">
 </p>
 
-Este script se basa en una implementación eficiente y versátil, que permite a los usuarios detectar qué puertos están abiertos evadiendo el firewall de un sistema remoto. Con este script, los usuarios pueden realizar rápidamente un escaneo exhaustivo de los puertos de una IP.
+**Host Scan** es un script eficiente y versátil que permite detectar qué puertos están abiertos en un sistema remoto, incluso evadiendo firewalls básicos.  
+Con este script, los usuarios pueden realizar rápidamente un escaneo exhaustivo de los puertos de una IP.
 
-<br>
+---
 
-## Kali Linux y Parrot OS
+## ⚙️ Requisitos
+
+- Sistema operativo: Linux (Kali, Parrot OS) o Android con Termux
+- Python 3.8 o superior
+- Dependencias incluidas en `requirements.txt`
+
+Instala las librerías necesarias:
+
+```bash
+pip install -r requirements.txt
 ```
-git clone https://github.com/bl4ck44/host-scan.git
 
+---
+
+## 🚀 Instalación
+
+### Kali Linux y Parrot OS
+
+```bash
+git clone https://github.com/Devsebastian44/Host-Scan.git
 cd host-scan
-
 sudo chmod +x setup.sh
-
 sudo bash setup.sh
-
-python scan.py
+python3 scan.py
 ```
 
-## Termux
+### Termux
 
-```
-git clone https://github.com/bl4ck44/host-scan.git
-
+```bash
+git clone https://github.com/Devsebastian44/Host-Scan.git
 cd host-scan
-
 chmod +x setup.sh
-
 bash setup.sh
-
-python scan.py
+python3 scan.py
 ```
 
-<br>
+---
+
+## ▶️ Uso
+
+Ejecuta el script principal:
+
+```bash
+python3 scan.py
+```
 
 <p align="center">
-<img src="Img/muestra1.png">
+  <img src="./Img/Captura1.png">
 </p>
-
-<br>
 
 <p align="center">
-<img src="Img/muestra2.jpg">
+  <img src="./Img/Captura2.jpg">
 </p>
 
-<br>
+---
 
-<p align="center">
-<img src="Img/muestra3.png">
-</p>
+## 📜 Licencia
 
-### ⚠️ **Aviso**
+Este proyecto está bajo la licencia Apache 2.0.  
+Puedes usarlo libremente con fines educativos y de investigación.
 
-Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**.
+---
 
-No me responsabilizo del mal uso que se pueda dar ni de los daños que puedan ocasionarse por su ejecución.
+## ⚠️ Aviso
 
-El uso indebido de este material puede ser **ilegal**.
+Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**.  
+El uso indebido de este material puede ser **ilegal**.  
+No me responsabilizo del mal uso ni de los daños que puedan ocasionarse por su ejecución.
