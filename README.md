@@ -13,13 +13,6 @@ Con este script, los usuarios pueden realizar rápidamente un escaneo exhaustivo
 
 - Sistema operativo: Linux (Kali, Parrot OS) o Android con Termux
 - Python 3.8 o superior
-- Dependencias incluidas en `requirements.txt`
-
-Instala las librerías necesarias:
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
@@ -29,7 +22,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/Devsebastian44/Host-Scan.git
-cd host-scan
+cd Host-Scan
 sudo chmod +x setup.sh
 sudo bash setup.sh
 python3 scan.py
@@ -39,7 +32,7 @@ python3 scan.py
 
 ```bash
 git clone https://github.com/Devsebastian44/Host-Scan.git
-cd host-scan
+cd Host-Scan
 chmod +x setup.sh
 bash setup.sh
 python3 scan.py
