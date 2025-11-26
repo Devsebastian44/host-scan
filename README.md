@@ -4,8 +4,7 @@
   <img src="./Img/Logo.png" height="300px" width="350px">
 </p>
 
-**Host Scan** es un script eficiente y versátil que permite detectar qué puertos están abiertos en un sistema remoto, incluso evadiendo firewalls básicos.  
-Con este script, los usuarios pueden realizar rápidamente un escaneo exhaustivo de los puertos de una IP.
+**Host Scan** es un script eficiente y versátil que permite detectar qué puertos están abiertos en un sistema remoto, incluso evadiendo firewalls básicos. Con este script, los usuarios pueden realizar rápidamente un escaneo exhaustivo de los puertos de una IP.
 
 ---
 
@@ -67,6 +66,4 @@ Puedes usarlo libremente con fines educativos y de investigación.
 
 ## ⚠️ Aviso
 
-Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**.  
-El uso indebido de este material puede ser **ilegal**.  
-No me responsabilizo del mal uso ni de los daños que puedan ocasionarse por su ejecución.
+Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**. El uso indebido de este material puede ser **ilegal**. No me responsabilizo del mal uso ni de los daños que puedan ocasionarse por su ejecución.
