@@ -59,8 +59,7 @@ python3 scan.py
 
 ## 📜 Licencia
 
-Este proyecto está bajo la licencia Apache 2.0.  
-Puedes usarlo libremente con fines educativos y de investigación.
+Este proyecto está bajo la licencia Apache 2.0. Puedes usarlo libremente con fines educativos y de investigación.
 
 ---
 
